@@ -4,3 +4,5 @@ Repositorio del tercer seminario de la asignatura de Usabilidad y Accesibilidad
 Enlace a la línea de tiempo...  
 [Historia de la accesibilidad informática en España](https://www.sutori.com/story/legislacion--kvornLcoXBuxAX5YosMDnse9)  
 ...como se va a poder usar en el test he decidido colocarlo en Sutori, ya que en Genially no quedaban muy bien las etiquetas de más de 2 palabras.
+
+Enlace a la línea de tiempo intentada en el Genially: https://view.genial.ly/5c7ee3567d15495764fcd82d/legislacion1
